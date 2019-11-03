@@ -1,0 +1,63 @@
+h1, h2 {
+    text-align: center;
+}
+
+#content {
+    margin-top: 40px;
+}
+.remove-tweet,
+.remove-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+li{
+    background-color: #eeee;
+    margin-bottom: 0.5rem;
+    padding: 9px;
+    color: #0a2129;
+}
+li a{
+    padding-right: 15px;
+}
+.form{
+    background-color: #0a2129;
+    padding: 30px;
+    color: white;
+    height: 290px;
+}
+
+.profile{
+    text-align: center;
+    background-color: #eeee;
+    padding: 30px;
+    color:#0a2129;
+    height: 230px;
+}
+
+input[type="submit"].button-primary{
+    max-width: 150px;
+    background-color: #3d9cda;
+    border-color: #3d9cda;
+}
+label{
+    font-size:28px;
+}
+p{
+    font-size: 17px;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+textarea{
+    min-height: 60px;
+    color:#0a2129;
+}
+.topicarea{
+    min-height: 25px;
+}
+.footer{
+    margin: 30px;
+    padding: 30px;
+}
